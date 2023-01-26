@@ -1,0 +1,6 @@
+C:\projects\Project2022-2023\FinalProject\ModelTheResearch\bin\Debug\ModelTheResearch.dll
+C:\projects\Project2022-2023\FinalProject\ModelTheResearch\bin\Debug\ModelTheResearch.pdb
+C:\projects\Project2022-2023\FinalProject\ModelTheResearch\obj\Debug\ModelTheResearch.csproj.AssemblyReference.cache
+C:\projects\Project2022-2023\FinalProject\ModelTheResearch\obj\Debug\ModelTheResearch.csproj.CoreCompileInputs.cache
+C:\projects\Project2022-2023\FinalProject\ModelTheResearch\obj\Debug\ModelTheResearch.dll
+C:\projects\Project2022-2023\FinalProject\ModelTheResearch\obj\Debug\ModelTheResearch.pdb

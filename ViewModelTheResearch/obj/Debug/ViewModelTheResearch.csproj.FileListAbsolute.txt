@@ -1,0 +1,11 @@
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\obj\Debug\ViewModelTheResearch.csproj.AssemblyReference.cache
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\obj\Debug\ViewModelTheResearch.csproj.CoreCompileInputs.cache
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\bin\Debug\dbTheResarch.mdf
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\bin\Debug\dbTheResarch_log.ldf
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\bin\Debug\ViewModelTheResearch.dll
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\bin\Debug\ViewModelTheResearch.pdb
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\bin\Debug\ModelTheResearch.dll
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\bin\Debug\ModelTheResearch.pdb
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\obj\Debug\ViewModelTheResearch.csproj.CopyComplete
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\obj\Debug\ViewModelTheResearch.dll
+C:\projects\Project2022-2023\FinalProject\ViewModelTheResearch\obj\Debug\ViewModelTheResearch.pdb
